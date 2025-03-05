@@ -1,0 +1,1 @@
+sumit = cv2.cvtColor(sumit, cv2.COLOR_BGR2RGB)
